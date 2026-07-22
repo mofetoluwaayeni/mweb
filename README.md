@@ -101,7 +101,7 @@ INSTALLATION STEPS:
 
 1. Clone or extract the MWEB archive:
 
-   $ git clone https://github.com/yourusername/mweb.git
+   $ git clone https://github.com/Mofetoluwaayeni/mweb.git
    $ cd mweb
 
 2. Create a virtual environment:
